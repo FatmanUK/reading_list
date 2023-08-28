@@ -45,6 +45,7 @@ _Greg Mandel_ series
 - [ ] The Nano Flower
 
 ### James S. A. Corey
+_The Expanse_ series
 - [x] Leviathan Wakes
 - [ ] Caliban's War
 - [ ] Abaddon's Gate
@@ -145,7 +146,7 @@ _Laundry Files_ series
 _Silver Ships_ series --- stop before Alliance (#14) and read _Pyreans_ series
 - [x] The Silver Ships
 - [x] Libre
-- [.] Meridien
+- [ ] Meridien
 - [ ] Haraken
 - [ ] Sol
 - [ ] Espero
@@ -157,7 +158,7 @@ _Silver Ships_ series --- stop before Alliance (#14) and read _Pyreans_ series
 - [ ] Artifice
 - [ ] Sojourn
 - [ ] Alliance
-- [ ] Sades
+- [ ] SADEs
 - [ ] Earthers
 - [ ] Talus
 - [ ] Elvians
