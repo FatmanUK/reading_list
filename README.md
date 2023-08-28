@@ -31,6 +31,10 @@ The first six-novel series leaves us with a mystery, which we then pursue:
 - [ ] Beyond the Frontier: Guardian
 
 ### Peter F. Hamilton
+_Commonwealth_ series
+- [x] Pandora's Star
+- [x] Judas Unchained
+
 _Void_ series:
 - [x] The Dreaming Void
 - [ ] The Temporal Void
@@ -43,6 +47,18 @@ _Greg Mandel_ series
 - [x] Mindstar Rising (incl. Family Matters)
 - [ ] A Quantum Murder
 - [ ] The Nano Flower
+
+_Salvation_ series
+- [x] Salvation
+
+### Stephen King
+Lots. Look up some.
+
+### Richard Phillips
+Rho series three?
+
+### Terry Pratchett
+Discworld series
 
 ### James S. A. Corey
 _The Expanse_ series
@@ -203,27 +219,48 @@ Part 1: Discovery
 - [ ] That Which Other Men Cannot Do (2015)
 
 Part 2: Rogue Castes
-- [ ] Escalation
-- [ ] Rescue
-- [ ] Resurrection
-- [ ] Rebellion
-- [ ] Balance
-- [ ] For the Triumph of Evil
-- [ ] Who Takes No Risk
-- [ ] Sanctuary
-- [ ] I Am Justice
-- [ ] Retaliation
-- [ ] A Rock and a Hard Place
-- [ ] A Price Too High
-- [ ] Return of the Corinari
-- [ ] A Line in the Sand
-- [ ] Into the Serpent's Lair
+- [ ] Escalation (2016)
+- [ ] Rescue (2016)
+- [ ] Resurrection (2016)
+- [ ] Rebellion (2017)
+- [ ] Balance (2017)
+- [ ] For the Triumph of Evil (2017)
+- [ ] Who Takes No Risk (2017)
+- [ ] Sanctuary (2018)
+- [ ] I Am Justice (2018)
+- [ ] Retaliation (2018)
+- [ ] A Rock and a Hard Place (2019)
+- [ ] A Price Too High (2019)
+- [ ] Return of the Corinari (2019)
+- [ ] A Line in the Sand (2020)
+- [ ] Into the Serpent's Lair (2020)
 
 Part 3: Fringe Worlds
+- [ ] Aurora: EV-01 (2021)
+- [ ] No Risk too Great (2022)
+- [ ] Liberty and Truth, Peace and Prosperity (2022)
+- [ ] Not The Hill We Die On (2022)
+- [ ] Escape of the Free Fleet (2022)
+- [ ] Evolution (2023)
+- [ ] Birth of an Empire (2023)
+- [ ] A Few Against Many (2023)
+...?
 
-Part 4: ?
+Part 4: TBA
 
-Part 5: ?
+Part 5: TBA
+
+### Jay Allan
+_Crimson Worlds_ series
+- [x] Marines (2012)
+- [ ] The Cost of Victory (2012)
+- [ ] A Little Rebellion (2013)
+- [ ] The First Imperium (2013)
+- [ ] The Line Must Hold (2013)
+- [ ] To Hell's Heart (2013)
+- [ ] The Shadow Legions (2014)
+- [ ] Even Legends Die (2014)
+- [ ] The Fall (2014)
 
 ### Ricky Sides
 ~~_Peacekeepers_ series~~ Terrible. Never mind.
