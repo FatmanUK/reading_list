@@ -36,7 +36,7 @@ _Commonwealth_ series
 - [x] Judas Unchained
 
 _Void_ series:
-- [x] The Dreaming Void
+- [ ] The Dreaming Void
 - [ ] The Temporal Void
 - [ ] The Evolutionary Void
 
@@ -50,15 +50,74 @@ _Greg Mandel_ series
 
 _Salvation_ series
 - [x] Salvation
+- [ ] Salvation Lost
+- [ ] The Saints of Salvation
 
 ### Stephen King
-Lots. Look up some.
+_The Dark Tower_ series
+- [x] The Gunslinger
+- [x] The Drawing of Three
+- [x] The Waste Land
+- [x] Wizard and Glass
+- [x] Wolves of the Calla
+- [x] The Song of Susannah
+- [x] The Dark Tower
+
+Various standalones
+- [ ] The Mist
+- [ ] The Shining
+- [ ] Needful Things
+- [ ] Pet Sematary
 
 ### Richard Phillips
-Rho series three?
+_Rho Agenda Inception_ series
+- [ ] Once Dead
+- [ ] Dead Wrong
+- [ ] Dead Shift
 
 ### Terry Pratchett
-Discworld series
+_Discworld_ series
+- [x] The Colour of Magic
+- [x] The Light Fantastic
+- [x] Equal Rites
+- [x] Mort
+- [x] Sourcery
+- [x] Wyrd Sisters
+- [x] Pyramids
+- [x] Guards! Guards!
+- [x] Eric
+- [x] Moving Pictures
+- [x] Reaper Man
+- [x] Witches Abroad
+- [x] Small Gods
+- [x] Lords and Ladies
+- [x] Men at Arms
+- [x] Soul Music
+- [x] Interesting Times
+- [x] Maskerade
+- [x] Feet of Clay
+- [x] Hogfather
+- [x] Jingo
+- [x] The Last Continent
+- [x] Carpe Jugulum
+- [x] The Fifth Elephant
+- [x] The Truth
+- [x] Thief of Time
+- [x] The Last Hero
+- [ ] The Amazing Maurice and His Educated Rodents
+- [x] Night Watch
+- [ ] The Wee Free Men
+- [x] Monstrous Regiment
+- [ ] A Hat Full of Sky
+- [x] Going Postal
+- [x] Thud!
+- [x] Wintersmith
+- [x] Making Money
+- [x] Unseen Academicals
+- [ ] I Shall Wear Midnight
+- [ ] Snuff
+- [ ] Raising Steam
+- [ ] The Shepherd's Crown
 
 ### James S. A. Corey
 _The Expanse_ series
@@ -146,7 +205,7 @@ _Uplift_ series
 _Laundry Files_ series
 - [x] The Atrocity Archives (2004)
 - [x] The Jennifer Morgue (2006)
-- [ ] The Fuller Memorandum (2010)
+- [x] The Fuller Memorandum (2010)
 - [ ] The Apocalypse Codex (2012)
 - [ ] The Rhesus Chart (2014)
 - [ ] The Annihilation Score (2015)
@@ -162,7 +221,7 @@ _Laundry Files_ series
 _Silver Ships_ series --- stop before Alliance (#14) and read _Pyreans_ series
 - [x] The Silver Ships
 - [x] Libre
-- [ ] Meridien
+- [x] Meridien
 - [ ] Haraken
 - [ ] Sol
 - [ ] Espero
@@ -269,7 +328,7 @@ _Crimson Worlds_ series
 _Wheel of Time_ series
 - [x] The Eye of the World
 - [x] The Great Hunt
-- [ ] The Dragon Reborn
+- [x] The Dragon Reborn
 - [ ] The Shadow Rising
 - [ ] The Fires of Heaven
 - [ ] Lord of Chaos
@@ -299,8 +358,8 @@ Standalone book (_Three Worlds_ related):
 - [ ] A Wizard's War and Other Stories
 
 ### Harry Harrison
-- [ ] Deathworld
-- [ ] The Ethical Engineer
+- [x] Deathworld
+- [x] The Ethical Engineer
 
 ### John Birmingham
 _Cruel Stars_ series
@@ -316,3 +375,6 @@ _Cruel Stars_ series
 - [ ] Shift
 - [ ] Dust
 
+### Mike Carey
+- [ ] The Devil You Know
+- [ ] Vicious Circle
