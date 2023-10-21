@@ -378,3 +378,34 @@ _Cruel Stars_ series
 ### Mike Carey
 - [ ] The Devil You Know
 - [ ] Vicious Circle
+
+### Terry Brooks
+_Shannara_ series
+- [ ] The Sword of Shannara (1977)
+- [ ] The Elfstones of Shannara (1982)
+- [ ] The Wishsong of Shannara (1985)
+
+### Piers Anthony
+_Xanth_ series
+- [ ] A Spell for Chameleon (1977)
+- [ ] The Source of Magic (1979)
+- [ ] Castle Roogna (1979)
+
+47 novels in the series and growing.
+
+### Stephen Donaldson
+_The First Chronicles_
+- [ ] Lord Foul's Bane (1977)
+- [ ] The Illearth War (1977)
+- [ ] The Power That Preserves (1979)
+
+_The Second Chronicles_
+- [ ] The Wounded Land (1980)
+- [ ] The One Tree (1982)
+- [ ] White Gold Wielder (1983)
+
+_The Last Chronicles_
+- [ ] The Runes of the Earth (2004)
+- [ ] Fatal Revenant (2007)
+- [ ] Against All Things Ending (2010)
+- [ ] The Last Dark (2013)
