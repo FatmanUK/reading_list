@@ -303,6 +303,7 @@ Part 3: Fringe Worlds
 - [ ] Evolution (2023)
 - [ ] Birth of an Empire (2023)
 - [ ] A Few Against Many (2023)
+- [ ] Lesser of Two Evils (2023)
 ...?
 
 Part 4: TBA
@@ -371,7 +372,7 @@ _Cruel Stars_ series
 - [ ] Kill Decision
 
 ### Hugh Howey
-- [ ] Wool
+- [x] Wool
 - [ ] Shift
 - [ ] Dust
 
