@@ -410,3 +410,26 @@ _The Last Chronicles_
 - [ ] Fatal Revenant (2007)
 - [ ] Against All Things Ending (2010)
 - [ ] The Last Dark (2013)
+
+### Isaac Asimov
+_Galactic Empire_ series
+- [ ] The Stars, Like Dust
+- [ ] The Currents of Space
+- [ ] Pebble in the Sky
+
+Standalone books
+- [ ] The Gods Themselves
+- [ ] Fantastic Voyage
+
+### Stephen Baxter
+- [ ] The Time Ships
+
+### E. E. "Doc" Smith
+_Lensman_ series
+- [ ] Triplanetary (1948)
+- [ ] First Lensman (1950)
+- [ ] Galactic Patrol (1950)
+- [ ] Gray Lensman (1951)
+- [ ] Second Stage Lensmen (1953)
+- [ ] Children of the Lens (1954)
+- [ ] The Vortex Blaster
