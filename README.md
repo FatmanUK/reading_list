@@ -433,3 +433,30 @@ _Lensman_ series
 - [ ] Second Stage Lensmen (1953)
 - [ ] Children of the Lens (1954)
 - [ ] The Vortex Blaster
+
+### T. H. White
+- [ ] The Once and Future King
+
+### Madeleine L'Engle
+- [ ] A Wrinkle in Time
+
+### Diana Wynne Jones
+- [ ] Howl's Moving Castle
+
+### Kazuo Ishiguro
+- [ ] The Buried Giant
+
+### Christopher Paolini
+- [ ] Eragon
+
+### Diana Gabaldon
+- [ ] Outlander
+
+### Richard Adams
+- [ ] Watership Down
+
+### Katherine Rundel
+- [ ] Impossible Creatures
+
+### Cornelia Funke
+- [ ] Inkheart
