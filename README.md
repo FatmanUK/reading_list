@@ -11,14 +11,14 @@ There are more here --- order gets a bit confusing now. Some titles:
 - [ ] Shadow of Saganami
 
 ### Fred Saberhagen
-- [ ] Berserker Throne (1985)
+- [x] Berserker Throne (1985)
 - [ ] Berserker Blue Death (1985)
 - [ ] Berserker Kill (1993)
 - [ ] Berserker Fury (1997)
 - [ ] Rogue Berserker (2005)
 
 ### Jack Campbell
-- [ ] Lost Fleet: Dauntless
+- [x] Lost Fleet: Dauntless
 - [ ] Lost Fleet: Fearless
 - [ ] Lost Fleet: Courageous
 - [ ] Lost Fleet: Valiant
@@ -64,9 +64,9 @@ _The Dark Tower_ series
 - [x] The Dark Tower
 
 Various standalones
-- [ ] The Mist
+- [x] The Mist
 - [ ] The Shining
-- [ ] Needful Things
+- [x] Needful Things
 - [ ] Pet Sematary
 
 ### Richard Phillips
@@ -134,7 +134,7 @@ _The Expanse_ series
 ### M. D. Cooper
 _Aeon 14: The Intrepid Saga_
 - [x] Outsystem
-- [ ] A Path in the Darkness
+- [x] A Path in the Darkness
 - [ ] Building Victoria
 
 The intended order for _Aeon 14_ isn't clear but includes:
@@ -190,7 +190,7 @@ _Uplift_ series
 - [ ] Heaven's Reach
 
 ### Graham Sharp Paul
-- [ ] The Battle at the Moons of Hell
+- [x] The Battle at the Moons of Hell
 - [ ] The Battle of the Hammer Worlds
 - [ ] The Battle of Devastation Reef
 - [ ] The Battle for Commitment Planet
@@ -275,7 +275,7 @@ Part 1: Discovery
 - [x] Rise of the Alliance (2014)
 - [x] A Show of Force (2015)
 - [x] The Weak and the Innocent (2015)
-- [ ] That Which Other Men Cannot Do (2015)
+- [x] That Which Other Men Cannot Do (2015)
 
 Part 2: Rogue Castes
 - [ ] Escalation (2016)
@@ -377,7 +377,7 @@ _Cruel Stars_ series
 - [ ] Dust
 
 ### Mike Carey
-- [ ] The Devil You Know
+- [x] The Devil You Know
 - [ ] Vicious Circle
 
 ### Terry Brooks
@@ -422,11 +422,11 @@ Standalone books
 - [ ] Fantastic Voyage
 
 ### Stephen Baxter
-- [ ] The Time Ships
+- [x] The Time Ships
 
 ### E. E. "Doc" Smith
 _Lensman_ series
-- [ ] Triplanetary (1948)
+- [x] Triplanetary (1948)
 - [ ] First Lensman (1950)
 - [ ] Galactic Patrol (1950)
 - [ ] Gray Lensman (1951)
