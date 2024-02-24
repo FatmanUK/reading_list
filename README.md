@@ -190,6 +190,7 @@ _Uplift_ series
 - [ ] Heaven's Reach
 
 ### Graham Sharp Paul
+_Helfort's War_ series
 - [x] The Battle at the Moons of Hell
 - [ ] The Battle of the Hammer Worlds
 - [ ] The Battle of Devastation Reef
@@ -304,6 +305,7 @@ Part 3: Fringe Worlds
 - [ ] Birth of an Empire (2023)
 - [ ] A Few Against Many (2023)
 - [ ] Lesser of Two Evils (2023)
+- [ ] Enemies of My Enemy (2024)
 ...?
 
 Part 4: TBA
@@ -341,6 +343,8 @@ _Wheel of Time_ series
 - [ ] The Gathering Storm
 - [ ] Towers of Midnight
 - [ ] A Memory of Light
+
+Finished by Brandon Sanderson?
 
 ### Ian Irvine
 _Gates of Good and Evil_ series
@@ -427,8 +431,8 @@ Standalone books
 ### E. E. "Doc" Smith
 _Lensman_ series
 - [x] Triplanetary (1948)
-- [ ] First Lensman (1950)
-- [ ] Galactic Patrol (1950)
+- [x] First Lensman (1950)
+- [x] Galactic Patrol (1950)
 - [ ] Gray Lensman (1951)
 - [ ] Second Stage Lensmen (1953)
 - [ ] Children of the Lens (1954)
@@ -460,3 +464,26 @@ _Lensman_ series
 
 ### Cornelia Funke
 - [ ] Inkheart
+
+### Brandon Sanderson
+_Mistborn_ trilogy
+- [ ] Mistborn
+- [ ] The Well of Ascension
+- [ ] The Hero of Ages
+
+_Mistborn_ continuing saga (_Wax and Wayne_ ?)
+- [ ] The Alloy of Law
+- [ ] Shadows of Self
+- [ ] The Bands of Mourning
+- [ ] The Lost Metal
+
+_The Stormlight Archive_
+- [ ] The Way of Kings
+- [ ] Words of Radiance
+- [ ] Edgedancer
+- [ ] Oathbringer
+- [ ] Dawnshard
+- [ ] Rhythm of War
+
+### Olaf Stapledon
+- [ ] Star Maker
