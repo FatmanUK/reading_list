@@ -433,9 +433,9 @@ _Lensman_ series
 - [x] Triplanetary (1948)
 - [x] First Lensman (1950)
 - [x] Galactic Patrol (1950)
-- [ ] Gray Lensman (1951)
-- [ ] Second Stage Lensmen (1953)
-- [ ] Children of the Lens (1954)
+- [x] Gray Lensman (1951)
+- [x] Second Stage Lensmen (1953)
+- [x] Children of the Lens (1954)
 - [ ] The Vortex Blaster
 
 ### T. H. White
