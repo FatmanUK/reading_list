@@ -65,8 +65,8 @@ _The Dark Tower_ series
 
 Various standalones
 - [x] The Mist
-- [ ] The Shining
 - [x] Needful Things
+- [ ] The Shining
 - [ ] Pet Sematary
 
 ### Richard Phillips
@@ -122,7 +122,7 @@ _Discworld_ series
 ### James S. A. Corey
 _The Expanse_ series
 - [x] Leviathan Wakes
-- [ ] Caliban's War
+- [x] Caliban's War
 - [ ] Abaddon's Gate
 - [ ] Cibola Burn
 - [ ] Nemesis Games
@@ -324,7 +324,7 @@ _Crimson Worlds_ series
 - [ ] Even Legends Die (2014)
 - [ ] The Fall (2014)
 
-### Ricky Sides
+### ~~Ricky Sides~~
 ~~_Peacekeepers_ series~~ Terrible. Never mind.
 
 ### Robert Jordan
@@ -421,6 +421,11 @@ _Galactic Empire_ series
 - [ ] The Currents of Space
 - [ ] Pebble in the Sky
 
+Second _Foundation_ trilogy
+- [ ] Foundation's Fear
+- [ ] Foundation and Chaos
+- [ ] Foundation's Triumph
+
 Standalone books
 - [ ] The Gods Themselves
 - [ ] Fantastic Voyage
@@ -436,7 +441,7 @@ _Lensman_ series
 - [x] Gray Lensman (1951)
 - [x] Second Stage Lensmen (1953)
 - [x] Children of the Lens (1954)
-- [ ] The Vortex Blaster
+- [x] The Vortex Blaster
 
 ### T. H. White
 - [ ] The Once and Future King
@@ -487,3 +492,25 @@ _The Stormlight Archive_
 
 ### Olaf Stapledon
 - [ ] Star Maker
+
+### N. K. Jemisin
+_Broken Earth_ trilogy
+- [ ] The Fifth Season
+- [ ] The Obelisk Gate
+- [ ] The Stone Sky
+
+### Lois McMaster Bujold
+_Vorkosigan_ saga
+- [ ] Shards of Honor
+- [ ] The Warrior's Apprentice
+- [ ] Ethan of Athos
+- [ ] Falling Free
+...
+
+### T. Kingfisher
+_Clocktaur War_ series
+- [ ] Clockwork Boys
+- [ ] The Wonder Engine
+
+Standalone books
+- [ ] Nettle & Bone
