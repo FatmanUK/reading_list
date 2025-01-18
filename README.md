@@ -12,14 +12,14 @@ There are more here --- order gets a bit confusing now. Some titles:
 
 ### Fred Saberhagen
 - [x] Berserker Throne (1985)
-- [ ] Berserker Blue Death (1985)
+- [x] Berserker Blue Death (1985)
 - [ ] Berserker Kill (1993)
 - [ ] Berserker Fury (1997)
 - [ ] Rogue Berserker (2005)
 
 ### Jack Campbell
 - [x] Lost Fleet: Dauntless
-- [ ] Lost Fleet: Fearless
+- [x] Lost Fleet: Fearless
 - [ ] Lost Fleet: Courageous
 - [ ] Lost Fleet: Valiant
 - [ ] Lost Fleet: Relentless
@@ -50,8 +50,8 @@ _Greg Mandel_ series
 
 _Salvation_ series
 - [x] Salvation
-- [ ] Salvation Lost
-- [ ] The Saints of Salvation
+- [x] Salvation Lost
+- [x] The Saints of Salvation
 
 ### Stephen King
 _The Dark Tower_ series
@@ -66,7 +66,7 @@ _The Dark Tower_ series
 Various standalones
 - [x] The Mist
 - [x] Needful Things
-- [ ] The Shining
+- [x] The Shining
 - [ ] Pet Sematary
 
 ### Richard Phillips
@@ -123,8 +123,8 @@ _Discworld_ series
 _The Expanse_ series
 - [x] Leviathan Wakes
 - [x] Caliban's War
-- [ ] Abaddon's Gate
-- [ ] Cibola Burn
+- [x] Abaddon's Gate
+- [x] Cibola Burn
 - [ ] Nemesis Games
 - [ ] Babylon's Ashes
 - [ ] Persepolis Rising
@@ -135,7 +135,7 @@ _The Expanse_ series
 _Aeon 14: The Intrepid Saga_
 - [x] Outsystem
 - [x] A Path in the Darkness
-- [ ] Building Victoria
+- [x] Building Victoria
 
 The intended order for _Aeon 14_ isn't clear but includes:
 
@@ -162,7 +162,7 @@ There is a reading guide, get that after _Intrepid_ series.
 ### Nick Cook
 _Earthsong_ series
 - [x] Earth Song
-- [ ] Earth Cry
+- [x] Earth Cry
 - [ ] Earth Shout
 - [ ] Earth Howl
 - [ ] Earth Yell
@@ -183,8 +183,8 @@ Standalone novel:
 ### David Brin
 _Uplift_ series
 - [x] Sundiver
-- [ ] Startide Rising
-- [ ] The Uplift War
+- [x] Startide Rising
+- [x] The Uplift War
 - [ ] Brightness Reef
 - [ ] Infinity's Shore
 - [ ] Heaven's Reach
@@ -192,7 +192,7 @@ _Uplift_ series
 ### Graham Sharp Paul
 _Helfort's War_ series
 - [x] The Battle at the Moons of Hell
-- [ ] The Battle of the Hammer Worlds
+- [x] The Battle of the Hammer Worlds
 - [ ] The Battle of Devastation Reef
 - [ ] The Battle for Commitment Planet
 - [ ] The Final Battle
@@ -207,8 +207,8 @@ _Laundry Files_ series
 - [x] The Atrocity Archives (2004)
 - [x] The Jennifer Morgue (2006)
 - [x] The Fuller Memorandum (2010)
-- [ ] The Apocalypse Codex (2012)
-- [ ] The Rhesus Chart (2014)
+- [x] The Apocalypse Codex (2012)
+- [x] The Rhesus Chart (2014)
 - [ ] The Annihilation Score (2015)
 - [ ] The Nightmare Stacks (2016)
 - [ ] The Delirium Brief (2017)
@@ -223,7 +223,7 @@ _Silver Ships_ series --- stop before Alliance (#14) and read _Pyreans_ series
 - [x] The Silver Ships
 - [x] Libre
 - [x] Meridien
-- [ ] Haraken
+- [x] Haraken
 - [ ] Sol
 - [ ] Espero
 - [ ] Allora
@@ -279,7 +279,7 @@ Part 1: Discovery
 - [x] That Which Other Men Cannot Do (2015)
 
 Part 2: Rogue Castes
-- [ ] Escalation (2016)
+- [x] Escalation (2016)
 - [ ] Rescue (2016)
 - [ ] Resurrection (2016)
 - [ ] Rebellion (2017)
@@ -306,6 +306,9 @@ Part 3: Fringe Worlds
 - [ ] A Few Against Many (2023)
 - [ ] Lesser of Two Evils (2023)
 - [ ] Enemies of My Enemy (2024)
+- [ ] The First Ranger (2024)
+- [ ] The Vengeance (2024)
+- [ ] Singularity (2024)
 ...?
 
 Part 4: TBA
@@ -332,7 +335,7 @@ _Wheel of Time_ series
 - [x] The Eye of the World
 - [x] The Great Hunt
 - [x] The Dragon Reborn
-- [ ] The Shadow Rising
+- [x] The Shadow Rising
 - [ ] The Fires of Heaven
 - [ ] Lord of Chaos
 - [ ] A Crown of Swords
@@ -377,12 +380,12 @@ _Cruel Stars_ series
 
 ### Hugh Howey
 - [x] Wool
-- [ ] Shift
-- [ ] Dust
+- [x] Shift
+- [x] Dust
 
 ### Mike Carey
 - [x] The Devil You Know
-- [ ] Vicious Circle
+- [x] Vicious Circle
 
 ### Terry Brooks
 _Shannara_ series
@@ -450,7 +453,7 @@ _Lensman_ series
 - [ ] A Wrinkle in Time
 
 ### Diana Wynne Jones
-- [ ] Howl's Moving Castle
+- [x] Howl's Moving Castle
 
 ### Kazuo Ishiguro
 - [ ] The Buried Giant
@@ -513,4 +516,7 @@ _Clocktaur War_ series
 - [ ] The Wonder Engine
 
 Standalone books
-- [ ] Nettle & Bone
+- [x] Nettle & Bone
+
+### Cixin Liu
+- [x] The Three-Body Problem
