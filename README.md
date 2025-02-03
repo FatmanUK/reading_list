@@ -11,9 +11,11 @@ There are more here --- order gets a bit confusing now. Some titles:
 - [ ] Shadow of Saganami
 
 ### Fred Saberhagen
+_Berserkers_ series
+...
 - [x] Berserker Throne (1985)
 - [x] Berserker Blue Death (1985)
-- [ ] Berserker Kill (1993)
+- [x] Berserker Kill (1993)
 - [ ] Berserker Fury (1997)
 - [ ] Rogue Berserker (2005)
 
@@ -131,6 +133,9 @@ _The Expanse_ series
 - [ ] Tiamat's Wrath
 - [ ] Leviathan Falls
 
+Standalone novel:
+- [ ] Mercy of the Gods
+
 ### M. D. Cooper
 _Aeon 14: The Intrepid Saga_
 - [x] Outsystem
@@ -224,7 +229,7 @@ _Silver Ships_ series --- stop before Alliance (#14) and read _Pyreans_ series
 - [x] Libre
 - [x] Meridien
 - [x] Haraken
-- [ ] Sol
+- [x] Sol
 - [ ] Espero
 - [ ] Allora
 - [ ] Celus-5
@@ -508,6 +513,7 @@ _Vorkosigan_ saga
 - [ ] The Warrior's Apprentice
 - [ ] Ethan of Athos
 - [ ] Falling Free
+
 ...
 
 ### T. Kingfisher
@@ -520,3 +526,80 @@ Standalone books
 
 ### Cixin Liu
 - [x] The Three-Body Problem
+
+### Martha Wells
+_The Murderbot Diaries_ series
+- [ ] All Systems Red
+- [ ] Artificial Condition
+- [ ] Rogue Protocol
+- [ ] Exit Strategy
+- [ ] Network Effect
+- [ ] Fugitive Telemetry
+- [ ] System Collapse
+
+### John Scalzi
+_Old Man's War_ series
+- [ ] Old Man's War
+- [ ] The Ghost Brigades
+- [ ] The Last Colony
+- [ ] Zoe's Tale
+- [ ] The Human Division
+- [ ] The End of All Things
+- [ ] The Shattering Peace
+
+### Neal Asher
+_Agent Cormac_ series
+- [ ] Gridlinked
+- [ ] The Line of Polity
+- [ ] Brass Man
+- [ ] Polity Agent
+- [ ] Line War
+
+_Spatterjay_ series
+- [ ] The Skinner
+- [ ] The Voyage of the Sable Keech
+- [ ] Orbus
+
+### Dennis E. Taylor
+_Bobiverse_ series
+...
+- [ ] Not Till We Are Lost
+
+### Elizabeth Moon
+_Vatta's War_ series
+- [ ] Trading in Danger
+- [ ] Moving Target
+- [ ] Engaging the Enemy
+- [ ] Command Decision
+- [ ] Victory Conditions
+
+### Glynn Stewart
+_Starship's Mage_ series
+- [ ] Starship's Mage
+- [ ] Hand of Mars
+- [ ] Voice of Mars
+... 17 books so far!
+
+### Michael Cobley
+_Humanity's Fire_ series
+- [ ] Seeds of Earth
+- [ ] The Orphaned Worlds
+- [ ] The Ascendant Stars
+
+Standalone novels:
+- [ ] Ancestral Machines
+- [ ] Splintered Suns
+
+### Ian Douglas
+_Galaxy Raiders_ series
+- [ ] Abyss
+
+(yep, one-book series here --- more to follow if it's good?)
+
+### Joel Shepherd
+_Spiral Wars_ series
+- [ ] Renegade
+- [ ] Drysine Legacy
+- [ ] Kantovan Vault
+... 9 book series.
+
