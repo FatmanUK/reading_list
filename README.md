@@ -341,7 +341,7 @@ _Wheel of Time_ series
 - [x] The Great Hunt
 - [x] The Dragon Reborn
 - [x] The Shadow Rising
-- [ ] The Fires of Heaven
+- [x] The Fires of Heaven
 - [ ] Lord of Chaos
 - [ ] A Crown of Swords
 - [ ] The Path of Daggers
@@ -355,7 +355,26 @@ _Wheel of Time_ series
 Finished by Brandon Sanderson?
 
 ### Ian Irvine
-_Gates of Good and Evil_ series
+_The View from the Mirror_ series
+- [x] A Shadow on the Glass
+- [x] The Tower on the Rift
+- [x] Dark is the Moon
+- [x] The Way Between the Worlds
+
+_The Well of Echoes_ series
+- [x] Geomancer
+- [x] Tetrarch
+- [x] Alchymist (non-British version: _Scrutator_)
+- [x] Chimaera
+
+_Song of the Tears_ series (follows on from _The Well of Echoes_)
+- [x] The Fate Of The Fallen
+- [x] The Curse On The Chosen
+- [x] The Destiny Of The Dead
+
+(yep, just three)
+
+_Gates of Good and Evil_ series (follows on from _The View from the Mirror_)
 - [x] The Summon Stone
 - [ ] The Fatal Gate
 - [ ] The Perilous Tower
@@ -394,7 +413,7 @@ _Cruel Stars_ series
 
 ### Terry Brooks
 _Shannara_ series
-- [ ] The Sword of Shannara (1977)
+- [x] The Sword of Shannara (1977)
 - [ ] The Elfstones of Shannara (1982)
 - [ ] The Wishsong of Shannara (1985)
 
@@ -602,4 +621,15 @@ _Spiral Wars_ series
 - [ ] Drysine Legacy
 - [ ] Kantovan Vault
 ... 9 book series.
+
+### Skyler Ramirez
+_Dumb Luck and Dead Heroes_ series
+- [ ] The Worst Ship in the Fleet
+- [ ] The Worst Spies in the Sector
+- [ ] The Worst Pirate Hunters in the Fringe
+- [ ] The Worst Rescuers in the Republic
+- [ ] The Worst Detectives in the Federation
+- [ ] The Worst Traitors in the Confederacy
+- [ ] The Worst Fugitives in the Star Nation
+- [ ] The Worst Mercenaries in the Border Systems
 
