@@ -19,6 +19,10 @@ _Berserkers_ series
 - [ ] Berserker Fury (1997)
 - [ ] Rogue Berserker (2005)
 
+_Dracula_ series
+- [ ] The Dracula Tape
+...
+
 ### Jack Campbell
 - [x] Lost Fleet: Dauntless
 - [x] Lost Fleet: Fearless
@@ -70,6 +74,9 @@ Various standalones
 - [x] Needful Things
 - [x] The Shining
 - [ ] Pet Sematary
+- [ ] Cell
+- [ ] The Long Walk
+- [ ] Doctor Sleep
 
 ### Richard Phillips
 _Rho Agenda Inception_ series
@@ -121,6 +128,8 @@ _Discworld_ series
 - [ ] Raising Steam
 - [ ] The Shepherd's Crown
 
+- [ ] Nanny Ogg's Cookbook
+
 ### James S. A. Corey
 _The Expanse_ series
 - [x] Leviathan Wakes
@@ -164,6 +173,15 @@ Also the _Perseus Gate_ series and the _Rika_ series?
 
 There is a reading guide, get that after _Intrepid_ series.
 
+### Aldous Huxley
+- [ ] Brave New World
+
+### Malcolm Lowry
+- [ ] Under the Volcano
+
+### Haruki Murakami
+- [ ] The Wind-Up Bird Chronicle
+
 ### Nick Cook
 _Earthsong_ series
 - [x] Earth Song
@@ -203,7 +221,7 @@ _Helfort's War_ series
 - [ ] The Final Battle
 
 ### Alastair Reynolds
-- [ ] Revelation Space
+- [x] Revelation Space
 - [ ] Redemption Ark
 - [ ] Absolution Gap
 
@@ -581,8 +599,15 @@ _Spatterjay_ series
 
 ### Dennis E. Taylor
 _Bobiverse_ series
-...
+- [x] We Are Legion (We Are Bob)
+- [x] For We Are Many
+- [x] All These Worlds
+- [x] Heaven's River
 - [ ] Not Till We Are Lost
+
+_Quantum Earth_ series
+- [ ] Outland
+- [ ] Earthside
 
 ### Elizabeth Moon
 _Vatta's War_ series
