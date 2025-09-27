@@ -26,7 +26,7 @@ _Dracula_ series
 ### Jack Campbell
 - [x] Lost Fleet: Dauntless
 - [x] Lost Fleet: Fearless
-- [ ] Lost Fleet: Courageous
+- [x] Lost Fleet: Courageous
 - [ ] Lost Fleet: Valiant
 - [ ] Lost Fleet: Relentless
 - [ ] Lost Fleet: Victorious
@@ -73,10 +73,13 @@ Various standalones
 - [x] The Mist
 - [x] Needful Things
 - [x] The Shining
-- [ ] Pet Sematary
+- [x] Pet Sematary
 - [ ] Cell
-- [ ] The Long Walk
+- [x] The Long Walk
 - [ ] Doctor Sleep
+- [x] The Running Man
+- [ ] Salem's Lot
+- [ ] Misery
 
 ### Richard Phillips
 _Rho Agenda Inception_ series
@@ -174,7 +177,7 @@ Also the _Perseus Gate_ series and the _Rika_ series?
 There is a reading guide, get that after _Intrepid_ series.
 
 ### Aldous Huxley
-- [ ] Brave New World
+- [x] Brave New World
 
 ### Malcolm Lowry
 - [ ] Under the Volcano
@@ -201,7 +204,7 @@ _Earthsong_ series
 - [ ] Sailing Bright Eternity
 
 Standalone novel:
-- [ ] Artifact
+- [x] Artifact
 
 ### David Brin
 _Uplift_ series
@@ -332,6 +335,7 @@ Part 3: Fringe Worlds
 - [ ] The First Ranger (2024)
 - [ ] The Vengeance (2024)
 - [ ] Singularity (2024)
+- [ ] Welcome to Paradise
 ...?
 
 Part 4: TBA
@@ -492,7 +496,7 @@ _Lensman_ series
 - [ ] The Once and Future King
 
 ### Madeleine L'Engle
-- [ ] A Wrinkle in Time
+- [x] A Wrinkle in Time
 
 ### Diana Wynne Jones
 - [x] Howl's Moving Castle
@@ -566,7 +570,7 @@ Standalone books
 
 ### Martha Wells
 _The Murderbot Diaries_ series
-- [ ] All Systems Red
+- [x] All Systems Red
 - [ ] Artificial Condition
 - [ ] Rogue Protocol
 - [ ] Exit Strategy
@@ -586,7 +590,7 @@ _Old Man's War_ series
 
 ### Neal Asher
 _Agent Cormac_ series
-- [ ] Gridlinked
+- [x] Gridlinked
 - [ ] The Line of Polity
 - [ ] Brass Man
 - [ ] Polity Agent
@@ -649,6 +653,7 @@ _Spiral Wars_ series
 
 ### Skyler Ramirez
 _Dumb Luck and Dead Heroes_ series
+Not on Kobo Books. Find elsewhere.
 - [ ] The Worst Ship in the Fleet
 - [ ] The Worst Spies in the Sector
 - [ ] The Worst Pirate Hunters in the Fringe
@@ -657,4 +662,8 @@ _Dumb Luck and Dead Heroes_ series
 - [ ] The Worst Traitors in the Confederacy
 - [ ] The Worst Fugitives in the Star Nation
 - [ ] The Worst Mercenaries in the Border Systems
+
+### Andy Weir
+- [x] Project Hail Mary
+- [ ] Artemis
 
