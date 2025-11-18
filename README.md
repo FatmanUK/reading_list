@@ -76,7 +76,7 @@ Various standalones
 - [x] Pet Sematary
 - [ ] Cell
 - [x] The Long Walk
-- [ ] Doctor Sleep
+- [x] Doctor Sleep
 - [x] The Running Man
 - [ ] Salem's Lot
 - [ ] Misery
@@ -139,7 +139,7 @@ _The Expanse_ series
 - [x] Caliban's War
 - [x] Abaddon's Gate
 - [x] Cibola Burn
-- [ ] Nemesis Games
+- [x] Nemesis Games
 - [ ] Babylon's Ashes
 - [ ] Persepolis Rising
 - [ ] Tiamat's Wrath
@@ -235,7 +235,7 @@ _Laundry Files_ series
 - [x] The Fuller Memorandum (2010)
 - [x] The Apocalypse Codex (2012)
 - [x] The Rhesus Chart (2014)
-- [ ] The Annihilation Score (2015)
+- [x] The Annihilation Score (2015)
 - [ ] The Nightmare Stacks (2016)
 - [ ] The Delirium Brief (2017)
 - [ ] The Labyrinth Index (2018)
@@ -449,7 +449,7 @@ _Xanth_ series
 
 ### Stephen Donaldson
 _The First Chronicles_
-- [ ] Lord Foul's Bane (1977)
+- [x] Lord Foul's Bane (1977)
 - [ ] The Illearth War (1977)
 - [ ] The Power That Preserves (1979)
 
@@ -571,8 +571,8 @@ Standalone books
 ### Martha Wells
 _The Murderbot Diaries_ series
 - [x] All Systems Red
-- [ ] Artificial Condition
-- [ ] Rogue Protocol
+- [x] Artificial Condition
+- [x] Rogue Protocol
 - [ ] Exit Strategy
 - [ ] Network Effect
 - [ ] Fugitive Telemetry
