@@ -27,7 +27,7 @@ _Dracula_ series
 - [x] Lost Fleet: Dauntless
 - [x] Lost Fleet: Fearless
 - [x] Lost Fleet: Courageous
-- [ ] Lost Fleet: Valiant
+- [x] Lost Fleet: Valiant
 - [ ] Lost Fleet: Relentless
 - [ ] Lost Fleet: Victorious
 
@@ -80,6 +80,7 @@ Various standalones
 - [x] The Running Man
 - [ ] Salem's Lot
 - [ ] Misery
+- [ ] Gerald's Game
 
 ### Richard Phillips
 _Rho Agenda Inception_ series
@@ -180,7 +181,7 @@ There is a reading guide, get that after _Intrepid_ series.
 - [x] Brave New World
 
 ### Malcolm Lowry
-- [ ] Under the Volcano
+~~- [x] Under the Volcano~~
 
 ### Haruki Murakami
 - [ ] The Wind-Up Bird Chronicle
@@ -211,7 +212,7 @@ _Uplift_ series
 - [x] Sundiver
 - [x] Startide Rising
 - [x] The Uplift War
-- [ ] Brightness Reef
+- [x] Brightness Reef
 - [ ] Infinity's Shore
 - [ ] Heaven's Reach
 
@@ -364,7 +365,7 @@ _Wheel of Time_ series
 - [x] The Dragon Reborn
 - [x] The Shadow Rising
 - [x] The Fires of Heaven
-- [ ] Lord of Chaos
+- [x] Lord of Chaos
 - [ ] A Crown of Swords
 - [ ] The Path of Daggers
 - [ ] Winter's Heart
@@ -666,4 +667,8 @@ Not on Kobo Books. Find elsewhere.
 ### Andy Weir
 - [x] Project Hail Mary
 - [ ] Artemis
+
+### Clive Barker
+- [x] Imajica
+
 
