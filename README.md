@@ -377,6 +377,21 @@ _Wheel of Time_ series
 
 Finished by Brandon Sanderson?
 
+### Robert Rankin
+_Brentford Trlogy_ series
+- [x] The Antipope
+- [x] The Brentford Triangle
+- [x] East of Ealing
+- [x] The Sprouts of Wrath
+- [x] The Brentford Chainstore Massacre
+- [ ] Sex and Drugs and Sausage Rolls
+- [ ] Knees Up Mother Earth
+- [ ] The Brightonomicon
+- [ ] Retromancer
+- [ ] The Lord of the Ring Roads
+- [ ] The Chronicles of Banarnia
+- [ ] Normanghast
+
 ### Ian Irvine
 _The View from the Mirror_ series
 - [x] A Shadow on the Glass
